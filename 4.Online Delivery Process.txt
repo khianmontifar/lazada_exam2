@@ -1,0 +1,42 @@
+4. Online delivery Process
+	A. Merchant - Inventory
+		1. Product Management
+			- Merchant login to online delivery platform
+			- Merhant add all available product in the online delivery platform
+			- Merchant review and publish
+		2. Order Receipt
+			- Upon receipt of order, system will tag it as processing
+			- Merchant will then process the product for delivery
+			- Merchant will tag the order as ready for pickup for the riders
+			
+		3. Rider pickup the order
+			- Merchant can tag the order as pickuped by rider
+			
+		
+		
+	B.Rider - 1 merchant only per delivery
+		1. Pickup Notification
+			- Rider will receive a sms notification that he has pending pickup
+			- Rider will login to app to check the details
+			- Rider will pickup the order at merchant's stores
+		2. Rider verify pickup
+			- Rider will receive a notification that he already pickup the order
+			- Rider will login to app to confirm
+			
+		3. Rider Handover delivery to consumer
+			- Upon handover of delivery and receiving payment, Rider will tag the order as delivered.
+			- Rider will remit the money to merchant
+			- Rider will then be avaialble for next delivery
+	C. Consumer - 1 order at a time
+		1. Consumer order
+			- Consumer login to app
+			- At homepage, consumer must be able to view only all nearby stores
+			- Consumer can view all available product of the selected stores
+			- Consumer can add/remove product to cart
+			- Consumer can checkout products from cart.
+			- Consumer can select mode of payment
+				If card, payment must be validated first before successful checkout
+				If COD, order must be tagged as for delivery
+		2. Consumer Receive Order
+			- Once rider handed over the order, consumer will receive a notification
+			- Consumer will also be able to order again after completion of process

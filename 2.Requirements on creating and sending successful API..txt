@@ -1,0 +1,7 @@
+2.Requirements on creating and sending successful API.
+	1. Define scope of the requirement for api
+	2. Plan the technology stack to be used.
+	3. Start coding functionality by failing
+	4. Create unit test scripts and test it
+	5. Make your code successful by repeating 3 and 5.
+	6. Provide proper documentation.
